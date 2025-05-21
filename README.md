@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Mohamed Adel (Mobasurai)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mobasurai.mobasurai)
-![GitHub followers](https://img.shields.io/github/followers/mobasurai?label=Follow&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=mobasurai&color=blue)
-
 ---
 
 ## 🚀 About Me
