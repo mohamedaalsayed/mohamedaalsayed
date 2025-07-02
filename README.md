@@ -3,29 +3,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year CS student @ Egyptian E-Learning University
-- 🛠 Hardcore self-learner
-- 🧪 Believer in science, code, and coffee-fueled breakthroughs
-
----
-
-## 💡 Mottos I Live By
-
-> **Make it run. Make it right. Make it fast.**
-
----
-
-## 🎨 Hobbies & Interests
-
-- 🤔 Having existential debates with my compiler
-- 🛠 Thinking deeply about how things really work
-
----
-
-## 😁 Fun Facts
-
-- 💾 My SSD is tiny, but my ambition isn't
-- 🕒 Once spent 4 hours debugging a semicolon — and called it "character development"
+- 🎓 A Computer Science graduate from the Egyptian E-Learning University.
+- 🛠 Hardcore self-learner.
+- 🔥 Fueled by a strong passion for learning and building meaningful applications and solutions.
+- 🔎 Endlessly curious, I tinker with everything to learn how and why it works.
+- ✨ I believe great software is crafted, not just written — I care deeply about quality and never settle for less.
 
 ---
 
@@ -58,34 +40,6 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobasurai&show_icons=true&theme=radical" alt="Mobasurai's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobasurai&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
-
-## 🌟 Featured Projects
-
-- **[Home Services]([#](https://github.com/House-Hero/Home-Services))**  
-  🏠 Platform for booking and managing home services — .NET Core MVC, frontend integration, seamless UX.
-
-- **[LinkLite]([#](https://github.com/Mobasurai/LinkLite))**  
-  🔗 Lightning-fast URL shortener — Express.js, Redis, React.
-
-- **[AuraZone]([#](https://github.com/Mobasurai/AuraZone))**  
-  📺 YouTube-like video streaming backend — EF Core, performance-focused, local storage.
-
-- **[House Price Prediction Application]([#](https://github.com/Mobasurai/House-Price-Prediction-Model))**  
-  🏡 ML-powered web app for predicting house prices — FastAPI, HTML/CSS/JS, regression model.
-
-- **[EventBond]([#](https://github.com/Mobasurai/ATC_01287231102))**  
-  🎫 Multi-language event booking system — React (TypeScript), NestJS, PostgreSQL.
 
 ---
 
