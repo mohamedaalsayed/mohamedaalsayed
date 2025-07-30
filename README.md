@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Adel (Mobasurai)
+# 👋 Hi, I'm Mohamed Adel Al-Sayed
 ---
 
 ## 🚀 About Me
