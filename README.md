@@ -45,9 +45,8 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-adel-alsayed)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=twitter)](https://x.com/mobasurai)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/mobasurai)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamedaalsayed)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.adel.alsayed1@gmail.com)
 
 ---
 
