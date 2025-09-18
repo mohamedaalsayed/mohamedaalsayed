@@ -7,7 +7,7 @@
 - 🛠 Hardcore self-learner.
 - 🔥 Fueled by a strong passion for learning and building meaningful applications and solutions.
 - 🔎 Endlessly curious, I tinker with everything to learn how and why it works.
-- ✨ I believe great software is crafted, not just written — I care deeply about quality and never settle for less.
+- ✨ I believe great software is crafted, not just written.
 
 ---
 
